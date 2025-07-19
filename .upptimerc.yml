@@ -25,8 +25,8 @@ status-website:
   logoUrl: https://mimedev.fr/logo.png
   favicon: https://mimedev.fr/favicon.ico
   name: Mime Developpement
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Page de status de Mime Developpement."
+  introMessage: Bienvenue sur la page de status de Mime Developpement, alimenté par GitHub et Upptime.
   navbar:
     - title: Site principal
       href: https://mimedev.fr
