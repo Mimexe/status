@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mimedev.fr.ico",
     "slug": "mimedev-fr",
     "status": "up",
-    "uptime": "65.14%",
-    "uptimeDay": "65.14%",
-    "uptimeWeek": "65.14%",
-    "uptimeMonth": "65.14%",
-    "uptimeYear": "65.14%",
-    "time": 813,
-    "timeDay": 813,
-    "timeWeek": 813,
-    "timeMonth": 813,
-    "timeYear": 813,
+    "uptime": "94.65%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "94.65%",
+    "uptimeYear": "94.65%",
+    "time": 798,
+    "timeDay": 798,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2025-07-19": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 597,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "time": 586,
+    "timeDay": 586,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   },
   {
@@ -60,17 +60,19 @@
     "url": "mc.mimedev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "commandes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   }
 ]
