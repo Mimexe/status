@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mimedev.fr.ico",
     "slug": "mimedev-fr",
     "status": "up",
-    "uptime": "94.65%",
-    "uptimeDay": "94.65%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "94.65%",
-    "uptimeYear": "94.65%",
+    "uptime": "95.27%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "95.27%",
     "time": 798,
     "timeDay": 798,
     "timeWeek": 798,
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "commandes",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "88.50%",
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "88.50%",
+    "uptimeMonth": "88.50%",
+    "uptimeYear": "88.50%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-20": 23,
+      "2025-07-19": 38
     }
   }
 ]
