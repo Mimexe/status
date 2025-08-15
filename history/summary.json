@@ -43,19 +43,19 @@
     "url": "node.mimedev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mime-heberg-node",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 134,
     "timeDay": 141,
     "timeWeek": 145,
     "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 7
     }
   }
 ]
