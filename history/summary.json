@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/mimedev.fr.ico",
     "slug": "mimedev-fr",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.74%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 844,
-    "timeDay": 703,
+    "timeDay": 958,
     "timeWeek": 863,
     "timeMonth": 844,
     "timeYear": 844,
@@ -43,7 +43,7 @@
     "url": "node.mimedev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mime-heberg-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 145,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   }
 ]
