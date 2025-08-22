@@ -9,6 +9,8 @@ sites:
     url: https://docs.mimedev.fr
   - name: MimeHeberg
     url: https://panel.mimedev.fr
+  - name: Téléchargements
+    url: https://dl.mimedev.fr
   - name: MimeHeberg Node
     url: node.mimedev.fr
     port: 8080
