@@ -22,19 +22,19 @@
     "url": "https://docs.mimedev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/docs.mimedev.fr.ico",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 550,
-    "timeDay": 508,
-    "timeWeek": 550,
-    "timeMonth": 550,
-    "timeYear": 550,
+    "status": "up",
+    "uptime": "98.70%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 536,
+    "timeDay": 503,
+    "timeWeek": 536,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2025-08-22": 0
+      "2025-08-22": 22
     }
   },
   {
