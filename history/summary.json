@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mimedev.fr.ico",
     "slug": "site",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 821,
     "timeDay": 998,
     "timeWeek": 821,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.mimedev.fr.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 545,
     "timeDay": 651,
     "timeWeek": 545,
@@ -100,9 +100,9 @@
     "url": "node.mimedev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mime-heberg-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +111,8 @@
     "timeWeek": 135,
     "timeMonth": 135,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   }
 ]
