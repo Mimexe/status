@@ -7,12 +7,12 @@ sites:
     url: https://mimedev.fr
   - name: Documentation
     url: https://docs.mimedev.fr
-  - name: MimeHeberg
-    url: https://panel.mimedev.fr
   - name: Téléchargements
     url: https://dl.mimedev.fr
   - name: Maven
     url: https://repo.mimedev.fr
+  - name: MimeHeberg
+    url: https://panel.mimedev.fr
   - name: MimeHeberg Node
     url: node.mimedev.fr
     port: 8080
