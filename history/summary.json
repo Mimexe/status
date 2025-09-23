@@ -6,8 +6,8 @@
     "slug": "site",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 939,
@@ -16,7 +16,7 @@
     "timeMonth": 952,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2025-09-23": 0,
+      "2025-09-23": 1,
       "2025-08-23": 7
     }
   },
@@ -27,8 +27,8 @@
     "slug": "documentation",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 681,
@@ -37,7 +37,7 @@
     "timeMonth": 708,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-09-23": 0,
+      "2025-09-23": 1,
       "2025-09-22": 20,
       "2025-08-22": 22
     }
@@ -49,8 +49,8 @@
     "slug": "telechargements",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
@@ -59,7 +59,7 @@
     "timeMonth": 553,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-09-23": 0
+      "2025-09-23": 1
     }
   },
   {
@@ -69,8 +69,8 @@
     "slug": "maven",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
@@ -79,7 +79,7 @@
     "timeMonth": 562,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2025-09-23": 0
+      "2025-09-23": 1
     }
   },
   {
@@ -89,8 +89,8 @@
     "slug": "mime-heberg",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 616,
@@ -99,7 +99,7 @@
     "timeMonth": 621,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-09-23": 0,
+      "2025-09-23": 1,
       "2025-08-20": 72
     }
   },
@@ -108,19 +108,19 @@
     "url": "node.mimedev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mime-heberg-node",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.99%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.88%",
     "time": 137,
     "timeDay": 145,
     "timeWeek": 139,
     "timeMonth": 140,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-09-23": 0,
+      "2025-09-23": 1,
       "2025-09-20": 32,
       "2025-09-19": 1,
       "2025-09-05": 26,
