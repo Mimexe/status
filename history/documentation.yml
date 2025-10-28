@@ -1,7 +1,7 @@
 url: https://docs.mimedev.fr
-status: up
-code: 200
-responseTime: 680
-lastUpdated: 2025-10-27T23:02:24.283Z
+status: down
+code: 502
+responseTime: 406
+lastUpdated: 2025-10-28T20:59:30.123Z
 startTime: 2025-08-21T08:15:44.119Z
 generator: Upptime <https://github.com/upptime/upptime>
