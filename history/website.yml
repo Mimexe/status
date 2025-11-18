@@ -1,7 +1,7 @@
 url: https://mimedev.fr
-status: up
-code: 200
-responseTime: 1366
-lastUpdated: 2025-11-18T12:32:24.924Z
+status: down
+code: 500
+responseTime: 51
+lastUpdated: 2025-11-18T13:15:21.126Z
 startTime: 2025-10-14T20:21:18.421Z
 generator: Upptime <https://github.com/upptime/upptime>
