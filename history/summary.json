@@ -10,11 +10,11 @@
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.80%",
-    "time": 1179,
-    "timeDay": 1124,
-    "timeWeek": 984,
-    "timeMonth": 1165,
-    "timeYear": 1179,
+    "time": 1177,
+    "timeDay": 1061,
+    "timeWeek": 963,
+    "timeMonth": 1164,
+    "timeYear": 1177,
     "dailyMinutesDown": {
       "2025-11-18": 119
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.mimedev.fr.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.59%",
-    "time": 810,
-    "timeDay": 555,
-    "timeWeek": 546,
-    "timeMonth": 992,
-    "timeYear": 810,
+    "uptimeYear": "99.60%",
+    "time": 809,
+    "timeDay": 665,
+    "timeWeek": 553,
+    "timeMonth": 994,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2025-11-18": 119,
       "2025-10-28": 23,
@@ -54,11 +54,11 @@
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.80%",
-    "time": 591,
-    "timeDay": 507,
-    "timeWeek": 591,
-    "timeMonth": 589,
-    "timeYear": 591,
+    "time": 588,
+    "timeDay": 427,
+    "timeWeek": 587,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2025-11-18": 119
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.80%",
-    "time": 568,
-    "timeDay": 925,
+    "time": 566,
+    "timeDay": 499,
     "timeWeek": 493,
-    "timeMonth": 565,
-    "timeYear": 568,
+    "timeMonth": 567,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2025-11-18": 119
     }
