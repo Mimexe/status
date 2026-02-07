@@ -9,8 +9,8 @@ sites:
     url: https://docs.mimedev.fr
   - name: Download server
     url: https://dl.mimedev.fr
-  - name: Maven repository
-    url: https://repo.mimedev.fr
+  - name: API
+    url: https://api.mimedev.fr
 #  - name: Commandes
 #    url: play.mimedev.fr
 #    port: 25565
