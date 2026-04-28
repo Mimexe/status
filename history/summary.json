@@ -84,18 +84,19 @@
     "url": "https://api.mimedev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/api.mimedev.fr.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 582,
-    "timeDay": 624,
-    "timeWeek": 575,
-    "timeMonth": 585,
+    "timeDay": 638,
+    "timeWeek": 585,
+    "timeMonth": 587,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2026-04-28": 0,
       "2026-02-17": 22
     }
   }
